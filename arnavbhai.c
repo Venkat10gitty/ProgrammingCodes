@@ -19,7 +19,7 @@ int main()
     else if(f==3)
         g=8;
     if(f!=0)
-        printf("The grade of steel is: %d", g);
+        printf("The grade of steel is: %d :", g);
     else
         printf("Inavlid input");
         
